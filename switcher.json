@@ -1,0 +1,6 @@
+{
+  "solution": "SourceLinkTestApp.sln",
+  "mappings": {
+    "SourceLinkTestLib": "../sourcelink-test-lib/SourceLinkTestLib/SourceLinkTestLib.csproj"
+  }
+}
